@@ -54,8 +54,6 @@ The script `radioactive_decay.m` simulates the decay process, estimates half-lif
 ---
 
 ## 📝 Notes
-- This lab is part of the ELYM 316 course by Prof. R. Mukaro.
 - Parameters: Initial atoms = 1000, \(\tau = 1.0\) s, \(\Delta = 0.02\) s.
-- Submit code, plots, and answers as required.
 
 *Completed for ELYM 316 – Signals and Systems, August 25, 2025.*
