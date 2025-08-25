@@ -19,11 +19,11 @@ The code also explores a hypothetical scenario with positive gravity.
 Check out the generated plots below:
 
 ### 1. Vertical Motion of a Ball
-![Vertical Motion](graph_normal.png)  
+![Vertical Motion](verticalmotion.png)  
 This blue plot shows the ball's trajectory, reaching a maximum height before falling back to the ground.
 
 ### 2. Hypothetical Motion with "Upward" Gravity
-![Upward Gravity Motion](graph_positive_g.png)  
+![Upward Gravity Motion](upwardgravity.png)  
 This red plot illustrates what happens when gravity acts upwards, resulting in an indefinite upward curve.
 
 ---
