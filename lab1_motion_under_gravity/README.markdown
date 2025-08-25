@@ -29,13 +29,13 @@ This red plot illustrates what happens when gravity acts upwards, resulting in a
 ---
 
 ## ❓ Questions & Answers
-| **Question**                              | **Answer**              | **Marks** |
-|-------------------------------------------|-------------------------|-----------|
-| (i) To what maximum height does the ball rise? | 45.9184 m              | (3)       |
-| (ii) What is the index of time at maximum height? | 154                  | (3)       |
-| (iii) How long does it take to ascend to maximum height? | 3.06 s           | (3)       |
-| (iv) How long does it take to hit the ground? | 6.14 s               | (3)       |
-| (v) What happens if \( g \) is positive?    | Upward parabolic curve | (3)       |
+| **Question**                              | **Answer**              | 
+|-------------------------------------------|-------------------------|
+| (i) To what maximum height does the ball rise? | 45.9184 m              |
+| (ii) What is the index of time at maximum height? | 154                  |
+| (iii) How long does it take to ascend to maximum height? | 3.06 s           |
+| (iv) How long does it take to hit the ground? | 6.14 s               |
+| (v) What happens if \( g \) is positive?    | Upward parabolic curve |
 
 **Explanation for (v):** If \( g \) is positive, gravity acts upwards, causing the ball's height to increase indefinitely in a parabolic trajectory.
 
@@ -96,8 +96,3 @@ fprintf(['(v) If g is positive, gravity acts upwards, producing a parabolic curv
 4. View the saved graph images (`graph_normal.png` and `graph_positive_g.png`).
 
 ---
-
-## 📝 Notes
-- Graphs are saved as PNG files for inclusion in this README.
-- Adjust file paths if images are stored elsewhere in the repository.
-- This lab was completed on
