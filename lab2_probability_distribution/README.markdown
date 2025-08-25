@@ -4,14 +4,6 @@ Welcome to **Lab 2** of **ELYM 316 – Signals and Systems (2025)**! This lab ex
 
 ---
 
-## 🎯 Objective
-Create a 1000-point Gaussian distribution with:
-- Mean (\(\mu\)) = 0
-- Standard deviation (\(\sigma\)) = 1
-and analyze its properties, including the FWHM.
-
----
-
 ## 📈 Visualizations
 - **Gaussian Distribution Plot**: A plot of the generated distribution.
 - Save the plot as `gaussian_distribution.png` to view the output.
@@ -44,12 +36,5 @@ The script `probability_distributions.m` handles data generation, plotting, and 
 3. Save the plot as `gaussian_distribution.png` for inclusion in this README.
 
 ---
-
-## 📅 Due Date
-- **20 March 2025**
-
-## 📝 Notes
-- This lab is part of the ELYM 316 course by Prof. R. Mukaro.
-- Submit code, plot, and answers as required.
 
 *Completed for ELYM 316 – Signals and Systems, August 2025.*
