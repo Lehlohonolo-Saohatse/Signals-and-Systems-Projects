@@ -15,7 +15,7 @@ and analyze its properties, including the FWHM.
 ## 📈 Visualizations
 Here’s the generated Gaussian distribution:
 
-![Gaussian Distribution](gaussian_distribution.png)  
+![Gaussian Distribution](gaussiandistribution.png)  
 *Gaussian distribution with \(\mu = 0\) and \(\sigma = 1\)*
 
 ---
@@ -46,12 +46,5 @@ The script `probability_distributions.m` handles data generation, plotting, and 
 3. Save the plot as `gaussian_distribution.png` for inclusion in this README.
 
 ---
-
-## 📅 Due Date
-- **20 March 2025**
-
-## 📝 Notes
-- This lab is part of the ELYM 316 course by Prof. R. Mukaro.
-- Submit code, plot, and answers as required.
 
 *Completed for ELYM 316 – Signals and Systems, August 25, 2025.*
