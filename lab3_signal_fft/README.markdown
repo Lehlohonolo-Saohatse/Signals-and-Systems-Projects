@@ -40,12 +40,7 @@ The script `signal_fft.m` generates the signals, adds noise, computes the FFT, a
 
 ---
 
-## 📅 Due Date
-- **4 April 2025**
-
 ## 📝 Notes
-- This lab is part of the ELYM 315 course by Prof. R. Mukaro.
-- Group 5 Members: IR Twala (41905083), L Saohatse (37569422), T Chaba (35808438), MJ Ramaoka (4155396).
-- Submit code, plots, and analysis as required.
+- Group 5 Members: IR Twala, L Saohatse, T Chaba, MJ Ramaoka.
 
 *Completed for ELYM 315 – Signals and Systems, August 25, 2025.*
