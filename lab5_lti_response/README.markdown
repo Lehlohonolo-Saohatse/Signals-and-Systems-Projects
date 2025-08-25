@@ -48,12 +48,7 @@ The script `lti_response.m` handles both tasks, generating the required plots an
 
 ---
 
-## 📅 Due Date
-- **16 May 2025**
-
 ## 📝 Notes
-- This lab is part of the ELYM 316 course by Prof. R. Mukaro.
-- Group 5 Members: IR Twala (41905083), L Saohatse (37569422), T Chaba (35808438), MJ Ramaoka (41553896).
-- Submit code and graphs in a PDF (max 2 pages), avoiding screenshots.
+- Group 5 Members: IR Twala, L Saohatse, T Chaba, MJ Ramaoka.
 
 *Completed for ELYM 316 – Signals and Systems, August 25, 2025.*
