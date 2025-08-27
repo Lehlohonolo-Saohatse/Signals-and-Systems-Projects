@@ -4,7 +4,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-A collection of labs, assignments, and projects completed for the  
+A collection of labs completed for the  
 **ELYM 316 – Signals and Systems** module.
 
 This repository explores fundamental **signal processing concepts** through **MATLAB** simulations, reports, and visualizations.
