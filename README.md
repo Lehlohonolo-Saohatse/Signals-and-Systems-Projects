@@ -27,7 +27,7 @@ signals-and-systems-projects/
 ## 🚀 Getting Started
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/signals-and-systems-projects.git
+   git clone https://github.com/Lehlohonolo-Saohatse/signals-and-systems-projects.git
    ```
 2. **Navigate to the project folder**:
    ```bash
